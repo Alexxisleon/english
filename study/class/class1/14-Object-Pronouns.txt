@@ -1,0 +1,21 @@
+Eles sofrem a ação do verbo.
+Subject Pronouns Object Pronouns
+
+I           Me
+You         You
+He          Him
+She         Her
+It          It
+We          Us
+You         You
+They        Them
+
+Regras de Uso:
+
+- Use o Subject Pronoun quando houver um verbo depois dele.
+- Use o Object Pronoun quando não houver um verbo depois dele.
+
+E.g.: Robert always gives the students homework.
+- Robert é um homem e após temos o verbo “give”. Será substituído pelo Subject Pronoun “he”.
+- The students é plural e após não temos um verbo. Substituído pelo Object Pronoun “tem”.
+Frase resultante: He always gives them homework.

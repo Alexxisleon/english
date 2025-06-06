@@ -1,0 +1,13 @@
+Esse tempo verbal se refere a uma ação que começou no passado, durou por um período de
+tempo e terminou ainda no passado.
+
+Sentence Construction:
+
+Aff: SP + was/were + (verb+ing) + complement.
+E.g.: He was watching TV.
+
+Neg: SP + was/were + not (wasn’t/weren’t) + (verb+ing) + complement.
+E.g.: He wasn’t watching TV.
+
+Int: Was/Were + SP + (verb+ing) + complement?
+E.g.: Was he watching TV?

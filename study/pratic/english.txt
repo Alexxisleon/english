@@ -1,0 +1,27 @@
+Worksheet = planilha
+alphabet = alfabeto
+Spell these opposites: = soletre estes opostos:
+exercises = exercicios 
+Cardinal Numbers = Números Cardeais
+Your age: I am 18 years old. = Sua idade: Tenho 18 anos.
+ordinal numbers = números ordinais    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+Eles são usados para apontar algo específico dentro de uma frase, indicando pessoas ou coisas
+no espaço ou tempo.
+
+Pronomes Demonstrativos:
+
+- This: singular, usado para coisas que estão perto (near).
+- That: singular, usado para coisas que estão longe (far).
+- These: plural, usado para coisas que estão perto (near).
+- Those: plural, usado para coisas que estão longe (far).
+
+Sentence Construction:
+
+Aff: Demonstrative Pronoun + verb to be + complement.
+E.g.: This is an apple.
+
+Neg.: Demonstrative Pronoun + verb to be + not + complement.
+E.g.: This is not (isn’t) an apple.
+
+Int: Verb to be + Demonstrative Pronoun + complement?
+E.g.: Is this an apple?

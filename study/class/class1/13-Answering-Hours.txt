@@ -1,0 +1,28 @@
+Pergunta: What time is it?
+
+Responder hora cheia: It is [hour] o’clock.
+E.g.: It is nine o’clock.
+
+Responder entre os minutos 1 a 29: It is [minutes] past [hour].
+E.g.: It is twenty past one.
+
+Responder entre os minutos 31 a 59: It is [minutes] to [hour].
+E.g.: It is twenty-five to twelve.
+
+Situações Especiais:
+
+15 minutos: It is a quarter past [hour].
+E.g.: It is a quarter past ten.
+
+30 minutos: It is half past [hour].
+E.g.: It is half past four.
+
+45 minutos: It is a quarter to [hour].
+E.g.: It is a quarter to eight.
+
+AM (ante meridiem): antes do meio-dia (00:00 - 11:59)
+PM (post meridiem): depois do meio-dia (12:00 - 23:59)
+
+Termos Especiais:
+
+Midnight: 12:00 a.m. | Midday/Noon: 12:00 p.m.

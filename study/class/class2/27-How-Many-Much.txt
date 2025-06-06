@@ -1,0 +1,10 @@
+How Many: Usado para perguntar sobre coisas contáveis (countable things).
+How Much: Usado para perguntar sobre coisas incontáveis (uncountable things).
+
+Sentence Construction:
+
+How many: How many + noun (plural) + verb tense (interrogative)?
+E.g.: How many cars does she have?
+
+How Much: How much + noun (singular) + verb tense (interrogative)?
+E.g.: How much patience did you need in your last negotiation?

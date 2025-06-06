@@ -1,0 +1,10 @@
+Um Intensifier é uma palavra adicionada na frase para fortalecer ou enfraquecer outra palavra
+(geralmente a palavra que vem logo após a ele). A remoção do intensifier não altera o significado
+da frase, apenas sua intensidade.
+
+Exemplos de Intensifiers:
+
+Extremely, very well, really, fairly, pretty, rather, quite, especially and absolutely.
+E.g.:
+Frase original: I disagree with you.
+Com Intensifier: I strongly disagree with you. [Eu discordo fortemente de você].

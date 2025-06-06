@@ -1,0 +1,20 @@
+1 – Day ≠ Night          1 – Dia ≠ Noite                       
+2 – Tall ≠ Short         2 – Alto ≠ Baixo                                                                        
+3 – Big ≠ Small          3 – Grande ≠ Pequeno                
+4 – Hot ≠ Cold           4 – Quente ≠ Frio
+5 – Fast ≠ Slow          5 – Rápido ≠ Lento             
+6 – Up ≠ Down            6 – Cima ≠ Baixo               
+7 – Full ≠ Empty         7 – Cheio ≠ Vazio               
+8 – Stop ≠ Go            8 – Parar ≠ Ir
+9 – Front ≠Back          9 – Frente ≠ Trás          
+10 – Open ≠ Close        10 – Abrir ≠ Fechar             
+11 – Hard ≠ Soft         11 – Duro ≠ Macio               
+12 – Happy ≠ Sad         12 – Feliz ≠ Triste
+13 – Dry ≠ Wet           13 – Seco ≠ Molhado           
+14 – Left ≠ Right        14 – Esquerda ≠ Direita                
+15 – In ≠ Out            15 – Dentro ≠ Fora                  
+16 – On ≠ Off            16 – Ligado ≠ Desligado
+17 – Good ≠ Bad          17 – Bom ≠ mau        
+18 – Old ≠ New           18 – Velho ≠ Novo                
+19 – Young ≠ Old         19 – Jovem ≠ Velho              
+20 – Near ≠ Far          20 – Perto ≠ Longe

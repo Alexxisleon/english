@@ -1,0 +1,10 @@
+Elas são usadas para indicar a localização de algo ou alguém.
+
+ON: Usada para ruas (streets) ou andares (floors).
+E.g.: I live on the 5th Avenue.
+
+IN: Usada para países (countries), cidades (cities) ou bairros (neighborhoods).
+E.g.: They live in Australia.
+
+AT: Usada para locais específicos (specific places) ou endereço completo (complete address).
+E.g.: Paul works at Walmart.

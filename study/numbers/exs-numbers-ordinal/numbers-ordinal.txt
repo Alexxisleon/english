@@ -1,0 +1,12 @@
+1, first    11, eleventh        21, twenty-first    200, two hundredth  
+2, second   12, twelfth         22, twenty-second   1000, one thousandth  
+3, third    13, thirteenth      30, thirtieth       2000, two thousandth  
+4, fourth   14, fourteenth      40, fortieth        100 - one hundredth  
+5, fifth    15, fifteenth       50, fiftieth        101 - one hundred and first  
+6, sixth    16, sixteenth       60, sixtieth        102 - one hundred and second  
+7, seventh  17, seventeenth     70, seventieth      103 - one hundred and third  
+8, eighth   18, eighteenth      80, eightieth       104 - one hundred and fourth  
+9, ninth    19, nineteenth      90, ninetieth  
+10, tenth   20, twentieth       100, one hundredth
+ 
+

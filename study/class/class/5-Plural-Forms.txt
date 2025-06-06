@@ -1,0 +1,22 @@
+Regras para transformar palavras do singular para o plural:
+
+1. Adicionar +S:
+E.g.: Car – cars; house – houses.
+
+2. Adicionar +ES para palavras terminadas em S, X, Z, CH ou SH:
+E.g.: Kiss – kisses; fox – foxes; buzz – buzzes; match – matches; wish – wishes.
+
+3. Remover Y e adicionar +IES para consoante + Y:
+E.g.: Party – parties; lady- ladies.
+
+4. Remover F/FE e adicionar +VES para palavras terminadas em F ou FE:
+E.g.: Life – lives; leaf – leaves.
+
+5. Adicionar +ES para consoante + O:
+E.g.: Tomato – tomatoes; potato – potatoes.
+
+6. Palavras iguais no singular e no plural:
+E.g.: Sheep – sheep; deer – deer.
+
+7. Plural irregular:
+E.g.: Man – men; foot – feet.

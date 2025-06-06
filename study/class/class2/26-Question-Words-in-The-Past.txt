@@ -1,0 +1,24 @@
+Sentence Construction:
+
+Verb to be no passado: QW + verb to be (in the past) + SP + complement?
+E.g.: What was her name?
+Outros verbos no simple past: QW + did + SP + verb + complement?
+E.g.: Where did you live in California? 
+What: Perguntas sobre coisas (things).
+E.g.: What was her name?
+Where: Perguntas sobre localização (location).
+E.g.: Where did you live in California?
+When: Perguntas sobre tempo (time).
+E.g.: When was the Jazz Concert?
+Why: Perguntas sobre motivo (reason).
+E.g.: Why did you go to the hospital?
+Which: Perguntas sobre opções (options).
+E.g.: Which country did you visit last? Australia or Japan?
+Who: Perguntas sobre pessoa (subject).
+E.g.: Who was the man in her house yesterday?
+Whom: Perguntas sobre pessoa (object).
+E.g.: Whom did Alice help yesterday?
+Whose: Perguntas sobre posse (possession).
+E.g.: Whose house was that?
+How Often: Perguntas sobre frequência (frequency).
+E.g.: How often did you go to the gym last month?

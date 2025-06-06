@@ -1,0 +1,33 @@
+Esse tempo verbal é usado para descrever ações que estão em andamento no presente e que
+terminarão em algum ponto no futuro.
+
+Sentence Construction:
+
+Aff: Subject pronoun + verb to be + (verb+ing) + complement.
+E.g.: He is watching TV. [Ele está vendo televisão.]
+
+Neg: Subject pronoun + verb to be + not + (verb+ing) + complement.
+E.g.: We are not eating.
+
+Int: Verb to be + subject pronoun + (verb+ing) + complement?
+E.g.: Are they playing soccer?
+
+Regras para adicionar ING:
+
+1. Verbos termindos em “e” não tônico: Remova o “e” e adicione “ing”.
+E.g.: leave – leaving; take – taking.
+
+2. Verbos monossílabos terminados em CVC (consoante-vogal-consoante): Dobre a última consoante e adicione “ing”.
+E.g.: sit – sitting; run – running.
+Exceto verbos terminados em “w”, “x” ou “y”.
+E.g.: sew – sewing; fix – fixing; enjoy – enjoying.
+
+3. Para verbos com duas ou mais sílabas terminados em CVC: Dobre a última consoante se a
+última sílaba for tônica e adicione “ing”.
+E.g.: admit – admitting; regret – regretting.
+
+4. Se o verbo terminar em “ie”: Remova o “ie” e adicione “ying”.
+E.g. die – dying; lie – lying.
+
+5. Adicione “ing” nos verbos que não se enquadrarem nas regras anteriores.
+E.g.: read – reading; stand – standing.

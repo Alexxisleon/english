@@ -1,0 +1,13 @@
+Ele é utilizado para falar de nomes, idades, sentimentos, nacionalidades, profissões e para
+descrever algo ou alguém.
+
+Sentence Construction:
+
+Aff: SP + verb to be + complement.
+E.g.: He is (He’s) a good man.
+
+Neg: SP + verb to be + not + complement.
+E.g.: He is not (isn’t) a good man.
+
+Int: Verb to be + SP + complement?
+E.g.: Is he a good man?

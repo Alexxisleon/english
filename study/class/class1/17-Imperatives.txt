@@ -1,0 +1,15 @@
+Frases no Imperativo são usadas para dar conselhos, sugestões, pedidos, comandos, ordens ou
+instruções.
+
+Regras:
+
+- Não usamos um “Subject Pronoun” nas frases Imperativas. Implicitamente, o sujeito é “you”.
+- O verbo é usado no infinitivo sem o “to”.
+
+Sentence Construction:
+
+Aff: Verb + complemente.
+E.g.: Open the door.
+
+Neg: Do + not (ou Don’t) + verb + complement.
+E.g.: Do not (ou Don’t) open the door.

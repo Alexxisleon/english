@@ -1,0 +1,21 @@
+Esse tempo verbal é usado para expressar fatos, hábitos ou rotina.
+
+Sentence Construction:
+
+Aff: SP + verb + complement.
+E.g.: He works hard.
+
+Obs.: Adicionar “s” no final do verbo quando o sujeito da frase for “he”, “she” ou “it”. Esse “s” é
+para a conjugação do verbo e não para o plural.
+
+Neg: SP + do/does + not (don’t/doesn’t) + verb + complement.
+E.g.: He doesn’t work hard.
+
+Obs1: “Do” e “Does” são verbos auxiliares usados para formar frases negativas e interrogativas e
+não têm tradução.
+
+Obs2: Quando usar o “do” ou “does” nas frases negativas ou interrogativas, não conjugue o verbo
+adicionando o “s” no mesmo.
+
+Int: Do/Does + SP + verb + complement?
+E.g.: Does he work hard?

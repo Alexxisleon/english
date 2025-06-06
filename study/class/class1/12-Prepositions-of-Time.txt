@@ -1,0 +1,8 @@
+At: Usado para horas, momentos exatos do dia, noite e períodos de feriados.
+E.g.: Tom always arrives at 9 o’clock.
+
+In: Usado para meses, anos, séculos, manhã/tarde/noite e estações.
+E.g.: The company was founded in the 19th century.
+
+On: Usado para dias, datas, feriados e fins de semana.
+E.g.: We always have a huge celebration on New Year’s Eve.
